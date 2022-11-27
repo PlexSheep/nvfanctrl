@@ -80,4 +80,4 @@ And you should be set.
 ## License
 GNU GPL-3.
 
-This is a forke of https://github.com/johndoe31415/nvfanctrl
+This is a fork of https://github.com/johndoe31415/nvfanctrl
